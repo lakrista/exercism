@@ -1,2 +1,4 @@
 # exercism
-Exercism tasks
+Exercism tasks:
+
+- Scrabble Score
